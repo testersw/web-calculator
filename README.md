@@ -2,7 +2,7 @@
 
 <img src="./img/print.png" alt="Imagem">
 
-Este projeto apresenta um relógio digital simples, construído utilizando JavaScript, HTML e CSS. O objetivo é demonstrar como criar um relógio funcional na web, permitindo visualizar a hora atual de forma dinâmica.
+Este projeto apresenta uma calculadora básica, construída utilizando JavaScript, HTML e CSS. O objetivo é demonstrar como criar uma ferramenta de cálculo funcional na web, permitindo realizar operações matemáticas de maneira intuitiva e eficiente.
 
 ### Ajustes e melhorias
 
