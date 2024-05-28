@@ -1,4 +1,4 @@
-# Relógio Digital
+# Calculadora
 
 <img src="./img/Imagem.png" alt="Imagem">
 
@@ -13,33 +13,33 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Implementar validação de entrada
 - [ ] Adicionar tema claro
 
-## 🚀 Instalando <digital-watch>
+## 🚀 Instalando <web-calculator>
 
-Para instalar o <digital-watch>, siga estas etapas:
+Para instalar o <web-calculator>, siga estas etapas:
 
 
 Linux e macOS:
 
 ```
-git clone https://github.com/seu_usuario/relogio-digital.git
-cd relogio-digital
+git clone https://github.com/tonyzinh/web-calculator.git
+cd web-calculator
 npm install
 ```
 
 Windows:
 
 ```
-git clone https://github.com/seu_usuario/relogio-digital.git
-cd relogio-digital
+git clone https://github.com/tonyzinh/web-calculator.git
+cd web-calculator
 npm install
 ```
 
-## ☕ Usando <digital-watch>
+## ☕ Usando <web-calculator>
 
-Para usar <digital-watch>, siga estas etapas:
+Para usar <web-calculator>, siga estas etapas:
 
 ```
-Para usar o Relógio Digital, siga estas etapas:
+Para usar a caluladora, siga estas etapas:
 
 Abra o terminal ou prompt de comando.
 Navegue até o diretório onde o projeto foi clonado.
@@ -47,16 +47,16 @@ Execute o comando npm start para iniciar o servidor de desenvolvimento.
 Abra seu navegador e vá para http://localhost:3000.
 ```
 
-Você agora pode interagir com o relógio digital através da interface do navegador.
+Você agora pode interagir com a calculadora através da interface do navegador.
 
-## 📫 Contribuindo para <digital-watch>
+## 📫 Contribuindo para <web-calculator>
 
-Para contribuir com <digital-watch>, siga estas etapas:
+Para contribuir com <web-calculator>, siga estas etapas:
 
 1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <master>`.
+2. Crie um branch: `git checkout -b <main>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <digital-watch>`
+4. Envie para o branch original: `git push origin <web-calculator>`
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
