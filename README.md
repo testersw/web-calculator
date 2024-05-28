@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora Web
 
 <img src="./img/Imagem.png" alt="Imagem">
 
