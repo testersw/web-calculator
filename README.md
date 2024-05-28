@@ -8,11 +8,10 @@ Este projeto apresenta uma calculadora básica, construída utilizando JavaScrip
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Implementação inicial do relógio
-- [x] Melhorias na interface do usuário
-- [x] Adição de funções adicionais (cronômetro)
-- [ ] Integração com APIs externas (hora mundial)
-- [ ] Refatoração do código para melhor performance
+- [x] Implementação inicial da calculadora
+- [x] Adicionar suporte para operações mais complexas
+- [ ] Implementar validação de entrada
+- [ ] Adicionar tema claro
 
 ## 🚀 Instalando <digital-watch>
 
