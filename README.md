@@ -1,6 +1,6 @@
 # Relógio Digital
 
-<img src="./img/print.png" alt="Imagem">
+<img src="./img/Imagem.png" alt="Imagem">
 
 Este projeto apresenta uma calculadora básica, construída utilizando JavaScript, HTML e CSS. O objetivo é demonstrar como criar uma ferramenta de cálculo funcional na web, permitindo realizar operações matemáticas de maneira intuitiva e eficiente.
 
